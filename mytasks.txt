@@ -1,0 +1,4 @@
+2020-05-09+07:00:00+Morning meeting
+2020-05-09+14:30:00+Stand up with team
+2020-05-09+16:45:00+Work on AI final
+2020-05-09+18:00:00+Meeting with tom
